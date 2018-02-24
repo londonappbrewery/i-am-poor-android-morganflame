@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">I Am Poor challenge</string>
-    <string name="title">I Am Poor!</string>
+    <string name="title_I_am">I Am </string>
+    <string name="title_poor"> poor!</string>
 </resources>
